@@ -6,7 +6,8 @@ const DEFAULT_OPTIONS = {
     showProgress: true,
     progressColor: "blue",
     variant: "normal",
-    style: null
+    pauseOnHover: false,
+    pauseOnFocusLoss: false
   }
   
   export default class Toast {
