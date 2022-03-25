@@ -1,6 +1,6 @@
 # Simple Custom Toast Library
 
-Not mine, I have followed the tutorial [here](https://www.youtube.com/watch?v=HhpbzPMCKDc) and then added extra bits for color sytyling.
+Not mine, I have followed the tutorial [here](https://www.youtube.com/watch?v=HhpbzPMCKDc) and then added extra bits for color styling.
 
 ## Usage
 
